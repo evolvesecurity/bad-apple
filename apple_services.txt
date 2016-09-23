@@ -1,0 +1,14 @@
+SocialPushAgent
+SpotlightNetHelper
+com.apple.geod
+com.apple.CloudPhotosConfiguration
+com.apple.Safari.History
+com.apple.speech.speechsynthesisd
+CallHistoryPluginHelper
+CallHistorySyncHelper
+callservicesd
+com.apple.CloudPhotosConfiguration
+cloudphotosd
+gamed
+netbiosd
+iTunesHelper
